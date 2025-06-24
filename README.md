@@ -26,6 +26,8 @@ My primary focus is in **cybersecurity** 🔐, and I aim to expand my expertise 
 Feel free to connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/MayurRastogi/) 💼  
 - [Twitter](https://twitter.com/MayurRastogi01) 🐦
+- [HackerRank](https://www.hackerrank.com/profile/mayur_rastogi_c1)
+- [Credly](https://www.credly.com/users/mayurrastogi) 
 
 Let’s collaborate and discuss how we can work together to innovate and solve problems! 🌟
 
